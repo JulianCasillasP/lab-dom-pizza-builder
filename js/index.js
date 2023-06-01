@@ -137,4 +137,4 @@ function renderPrice() {
   totalPrice.textContent = `${price}`;
   document.querySelector('.price ul').innerHTML = ingredientList;
 }
-renderEverything();
+function renderEverything;
